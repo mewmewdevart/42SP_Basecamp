@@ -3,8 +3,8 @@
 [42 São Paulo](https://www.42sp.org.br) is a free Higher Education school with Software Engineering training, where you learn and teach on a 24-hour campus.
 
 **Repository:**<br>
-Repository of exercises developed during the second Basecamp (Piscine) of 42 São Paulo that took place between days 29/March and 17/April. 
-I am will probably continue to update this repository with more exercises solved.
+Repository of exercises developed during the second Basecamp (Piscine) of 42 São Paulo that took place between days 29/March and 17/April. <br>
+I am will probably continue to update this repository with more exercises solved. [After_Basecamp](https://github.com/mewmewdevart/42-Basecamp/tree/main/After_Basecamp)
 
 ⚡**Skills**
 
