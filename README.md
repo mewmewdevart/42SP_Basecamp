@@ -26,6 +26,7 @@ Just keep swimming...
 - C Language <br>
 - Shell <br>
 - Git <br>
+- Unix <br>
 
 🥇 **Achievements**
 
