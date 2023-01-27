@@ -1,7 +1,7 @@
 
 <p align="center">
 👩🏿‍💻 Hey, I'm coming back here in 2023 to say, that I tried to be part of the school again in 2022 and I did it! I'M TURN A CADET! <br>
-	<a href="https://github.com/mewmewdevart/42Projects">See my progress in the second try 🚀🌎</a>  <br>
+	<a href="https://github.com/mewmewdevart/42SP_Piscina">See my progress in the second try 🚀🌎</a>  <br>
   I chose not to delete or change the information presented in this repository. ↓
 </p> 
 
